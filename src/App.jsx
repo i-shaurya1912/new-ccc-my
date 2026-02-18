@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 import { BrowserRouter as Router, Route, Routes, useLocation, Navigate } from "react-router-dom";
 
+
 import Splash from "./components/Splash";
 import { Events } from "./components/Events";
 import Home from "./components/Home";
